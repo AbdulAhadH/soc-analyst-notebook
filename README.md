@@ -1,2 +1,22 @@
-# soc-analyst-notebook
-Notes and incident write ups from my SOC Level 1 training
+# SOC Analyst Notebook
+
+Notes and investigation writeups from my training toward a SOC Level 1 analyst role.
+Each investigation is written the way an analyst would hand a case to their team lead:
+what happened, how I found it, and what should change so it doesn't happen again.
+
+Currently working through: TryHackMe SOC Level 1
+
+## Investigations
+
+Root-cause writeups from hands-on rooms. (First one lands at the alert triage module.)
+
+## Notes
+
+| Topic | What it covers |
+|---|---|
+| [SOC Role in Blue Team](notes/soc-role-in-blue-team.md) | How a SOC is structured and where an L1 analyst sits in it |
+
+## How I write these
+
+- My own analysis, in my own words.
+- No room answers or flags. The reasoning is the point, not the solution.
