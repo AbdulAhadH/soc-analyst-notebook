@@ -12,8 +12,8 @@ A spike of AD domain discovery commands executed under `NT AUTHORITY\SYSTEM`. Th
 
 | Field | Value |
 |---|---|
-| Alert Name | AD Domain Discovery Command Spike |
-| Time Detected | [pull from dashboard] |
+| Alert Name | Domain Discovery Command Spike |
+| Time Detected | March 27, 2025 at 19:56 |
 | Host Name | DMZ-MSEXCHANGE-2013 |
 | Host OS | Windows Server 2012 R2 |
 | User | NT AUTHORITY\SYSTEM |
