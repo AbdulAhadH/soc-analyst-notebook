@@ -29,4 +29,4 @@ Write-ups for more complex alerts
 
 | ID | Title | Verdict | Link |
 |---|---|---|---|
-| 001 | Web Shell Compromise | True Positive — Escalated | [investigations/001-exchange-webshell-compromise.md) |
+| 001 | Web Shell Compromise | True Positive — Escalated | [View](investigations/001-exchange-webshell-compromise.md) |
