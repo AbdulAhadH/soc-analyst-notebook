@@ -10,11 +10,23 @@ Currently working through: TryHackMe SOC Level 1
 
 Root-cause writeups from hands-on rooms. (First one lands at the alert triage module.)
 
+
 ## Notes
 
 | Topic | What it covers |
 |---|---|
 | [SOC Role in Blue Team](notes/soc-role-in-blue-team.md) | How a SOC is structured and where an L1 analyst sits in it |
-| [Alert Triage Log](triage-log/alert-log.md) | Running log of alert-by-alert triage decisions, updated as I go |
+| [SOC L1 Alert Triage](notes/soc-l1-alert-triage.md) | Alert lifecycle, fields, and how priority gets decided |
+| [SOC L1 Alert Reporting](notes/soc-l1-alert-reporting.md) | How and when to escalate, and what makes a good case report |
 
+## Alert Triage Log
 
+[Running log](triage-log/alert-log.md) of every alert I've triaged
+
+## Investigations
+
+Write-ups for more complex alerts 
+
+| ID | Title | Verdict | Link |
+|---|---|---|---|
+| 001 | Web Shell Compromise | True Positive — Escalated | [investigations/001-exchange-webshell-compromise.md) |
