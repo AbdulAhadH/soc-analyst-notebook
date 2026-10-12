@@ -18,6 +18,7 @@ Root-cause writeups from hands-on rooms. (First one lands at the alert triage mo
 | [SOC Role in Blue Team](notes/soc-role-in-blue-team.md) | How a SOC is structured and where an L1 analyst sits in it |
 | [SOC L1 Alert Triage](notes/soc-l1-alert-triage.md) | Alert lifecycle, fields, and how priority gets decided |
 | [SOC L1 Alert Reporting](notes/soc-l1-alert-reporting.md) | How and when to escalate, and what makes a good case report |
+| [Introduction to EDR](notes/introduction-to-edr.md) | How EDR differs from antivirus, how it collects data, and how to read an EDR alert |
 
 ## Alert Triage Log
 
